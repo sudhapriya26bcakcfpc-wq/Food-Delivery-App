@@ -101,3 +101,16 @@ Shows a thank-you message with a delivery illustration.
 ### 🏆 8. CONCLUSION
 
 **Yumora makes food ordering simple, fast, and enjoyable by bringing food selection, ordering, payment, and delivery tracking together in one attractive app.** 💜🍔🛵
+
+----
+
+Developed by 
+
+Name : M.Sudhapriya
+I BCA
+Kamaraj College
+
+----
+⭐ Thankyou
+
+Thankyou for visiting this project

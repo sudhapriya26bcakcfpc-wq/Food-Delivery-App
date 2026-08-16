@@ -90,9 +90,13 @@ Shows a thank-you message with a delivery illustration.
 ### 👥 7. TARGET USERS
 
 🎓 Students
+
 💼 Working People
+
 👨‍👩‍👧 Families
+
 🍴 Anyone who wants **quick and convenient food delivery**
+
 
 ### 🏆 8. CONCLUSION
 

@@ -7,24 +7,40 @@
 ### 🎯 2. PROJECT OBJECTIVE
 
 🟣 Make food ordering **quick and easy**
+
 🟢 Provide a **simple and user-friendly interface**
+
 🟠 Display food items with **images and prices**
+
 🔵 Provide **multiple payment options**
+
 🔴 Give users a smooth **ordering experience**
+
 
 ### ✨ 3. KEY FEATURES
 
 🌱 **Veg & Non-Veg Selection**
+
 🍕 **Food Menu with Images**
+
 💰 **Food Prices**
+
 🛒 **Buy Now Option**
+
 📋 **Order Summary**
+
 📍 **Delivery Address**
+
 📞 **Phone Number**
+
 💳 **Cash / UPI / Card Payment**
+
 🛵 **Order Tracking**
+
 🎉 **Order Confirmation**
+
 ❤️ **Simple & Attractive UI**
+
 
 ### 📱 4. SCREENS INCLUDED
 

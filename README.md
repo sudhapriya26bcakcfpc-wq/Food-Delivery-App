@@ -51,27 +51,35 @@
 ### 📱 4. SCREENS INCLUDED
 
 🏠 **Screen 1 – Welcome Page**
+
 Yumora logo, food illustration, tagline, and **Let's Eat** button.
 
 🍽️ **Screen 2 – Food Preference**
+
 Users can choose **Veg** or **Non-Veg** food.
 
 🥗 **Screen 3 – Veg Food Menu**
+
 Displays Veg dishes with images, names, prices, and **Buy Now** buttons.
 
 🍗 **Screen 4 – Non-Veg Food Menu**
+
 Displays Non-Veg dishes with images, names, prices, and **Buy Now** buttons.
 
 🧾 **Screen 5 – Order Summary**
+
 Shows delivery address, phone number, item total, delivery fee, and total amount.
 
 💳 **Screen 6 – Payment Method**
+
 Users can select **Cash on Delivery, UPI, or Card**.
 
 🎉 **Screen 7 – Order Confirmation**
+
 Displays successful order confirmation and estimated delivery time.
 
 💜 **Screen 8 – Thank You Page**
+
 Shows a thank-you message with a delivery illustration.
 
 ----

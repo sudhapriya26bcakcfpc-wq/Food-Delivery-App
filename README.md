@@ -1,6 +1,5 @@
 # 🍔💜 YUMORA – FOOD DELIVERY APP 💜🍕
 
-
 ### 🌟 1. PROJECT OVERVIEW
 
 **Yumora** is a simple, attractive, and user-friendly **food delivery app**. It allows users to explore **Veg and Non-Veg food**, view food images and prices, place orders, choose payment methods, and track their delivery easily. 🛵🍴

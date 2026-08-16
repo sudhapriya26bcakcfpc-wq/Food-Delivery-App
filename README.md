@@ -71,11 +71,17 @@ Shows a thank-you message with a delivery illustration.
 ### 🎨 5. DESIGN THEME
 
 💜 **Primary Colour:** Purple
+
 🌸 **Background:** Light Lavender
+
 💗 **Accent:** Pink / Magenta
+
 ⚪ **Cards:** White
+
 ✨ **Style:** Colourful, modern & friendly
+
 🔘 **Buttons:** Bold purple with rounded corners
+
 
 ### 🔄 6. USER FLOW
 

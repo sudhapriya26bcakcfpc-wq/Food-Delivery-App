@@ -1,8 +1,12 @@
 # 🍔💜 YUMORA – FOOD DELIVERY APP 💜🍕
 
+----
+
 ### 🌟 1. PROJECT OVERVIEW
 
 **Yumora** is a simple, attractive, and user-friendly **food delivery app**. It allows users to explore **Veg and Non-Veg food**, view food images and prices, place orders, choose payment methods, and track their delivery easily. 🛵🍴
+
+----
 
 ### 🎯 2. PROJECT OBJECTIVE
 
@@ -15,6 +19,8 @@
 🔵 Provide **multiple payment options**
 
 🔴 Give users a smooth **ordering experience**
+
+----
 
 
 ### ✨ 3. KEY FEATURES
@@ -40,6 +46,8 @@
 🎉 **Order Confirmation**
 
 ❤️ **Simple & Attractive UI**
+
+----
 
 
 ### 📱 4. SCREENS INCLUDED
@@ -68,6 +76,8 @@ Displays successful order confirmation and estimated delivery time.
 💜 **Screen 8 – Thank You Page**
 Shows a thank-you message with a delivery illustration.
 
+----
+
 ### 🎨 5. DESIGN THEME
 
 💜 **Primary Colour:** Purple
@@ -82,10 +92,14 @@ Shows a thank-you message with a delivery illustration.
 
 🔘 **Buttons:** Bold purple with rounded corners
 
+----
+
 
 ### 🔄 6. USER FLOW
 
 **🏠 Welcome → 🍽️ Preference → 🥗 Food Menu → 🛒 Buy Now → 🧾 Order Summary → 💳 Payment → 🎉 Confirmation → 💜 Thank You**
+
+----
 
 ### 👥 7. TARGET USERS
 
@@ -96,6 +110,8 @@ Shows a thank-you message with a delivery illustration.
 👨‍👩‍👧 Families
 
 🍴 Anyone who wants **quick and convenient food delivery**
+
+----
 
 
 ### 🏆 8. CONCLUSION

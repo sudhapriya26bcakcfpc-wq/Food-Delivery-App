@@ -1,6 +1,5 @@
 # 🍔💜 YUMORA – FOOD DELIVERY APP 💜🍕
 
-----
 
 ### 🌟 1. PROJECT OVERVIEW
 

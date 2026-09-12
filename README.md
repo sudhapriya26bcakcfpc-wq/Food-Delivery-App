@@ -1,4 +1,13 @@
 # 🍔💜 YUMORA – FOOD DELIVERY APP 💜🍕
+### Design Link : 
+
+https://www.figma.com/design/tExRbHCp1JgfQxhvDeMiJC/Food-delivery-App?t=IVEnNwWYO8uc9zzh-0
+
+
+### Prototype Link : 
+
+
+https://www.figma.com/proto/tExRbHCp1JgfQxhvDeMiJC/Food-delivery-App?t=IVEnNwWYO8uc9zzh-1
 
 ### 🌟 1. PROJECT OVERVIEW
 
